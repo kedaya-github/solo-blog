@@ -10,6 +10,7 @@ Weixl 的个人博客
 
 ### 最新
 
+* [easy-mock模拟数据](http://www.loveless.top/articles/2020/07/02/1593684227419.html)
 * [activeMQ](http://www.loveless.top/articles/2020/06/28/1593340969653.html)
 * [HttpClient&RestTemplate](http://www.loveless.top/articles/2020/06/23/1592880901374.html)
 * [使用maven搭建SpringCloud项目](http://www.loveless.top/articles/2020/06/23/1592880900731.html)
