@@ -10,6 +10,15 @@ Weixl 的个人博客
 
 ### 最新
 
+* [SQL优化](http://localhost/articles/2020/10/08/1602155644120.html)
+* [spring事务](http://localhost/articles/2020/10/08/1602155611562.html)
+* [java集合](http://localhost/articles/2020/10/08/1602155542452.html)
+* [多线程](http://localhost/articles/2020/10/08/1602155459646.html)
+* [微信小程序-mpvue](http://localhost/articles/2020/10/08/1602155065247.html)
+* [springboot发送阿里大鱼手机短信](http://localhost/articles/2020/10/08/1602154804980.html)
+* [java爬虫CSDN博客](http://localhost/articles/2020/10/08/1602154705576.html)
+* [spring-cache缓存](http://localhost/articles/2020/10/08/1602154315303.html)
+* [spring注解](http://localhost/articles/2020/10/08/1602154314742.html)
 * [easy-mock模拟数据](http://localhost/articles/2020/07/02/1593684227419.html)
 * [activeMQ](http://localhost/articles/2020/06/28/1593340969653.html)
 * [HttpClient&RestTemplate](http://localhost/articles/2020/06/23/1592880901374.html)
