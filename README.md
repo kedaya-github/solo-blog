@@ -10,6 +10,7 @@ Weixl 的个人博客
 
 ### 最新
 
+* [线程池](http://localhost/articles/2020/10/18/1603028507368.html)
 * [RabbitMQ 消息中间件](http://localhost/articles/2020/10/13/1602593419386.html)
 * [SQL优化](http://localhost/articles/2020/10/08/1602155644120.html)
 * [spring事务](http://localhost/articles/2020/10/08/1602155611562.html)
@@ -29,7 +30,6 @@ Weixl 的个人博客
 * [微服务常见问题](http://localhost/articles/2020/06/23/1592880898561.html)
 * [微服务配置](http://localhost/articles/2020/06/23/1592880897897.html)
 * [cloud-config拆分配置yml&cloud-bus消息总线](http://localhost/articles/2020/06/23/1592880897001.html)
-* [Hystrix熔断器&Feign服务调用](http://localhost/articles/2020/06/23/1592880896358.html)
 
 
 
